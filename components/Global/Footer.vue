@@ -107,7 +107,12 @@
                         </ul>
                     </div>
                     <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-12 col-12">
-                        <a href=""><img src="/assets/images/أحمد وليد.png" alt=""></a>
+                        <a href=""><nuxt-img
+                                loading="lazy" 
+                                fit="cover"
+                                provider="cloudinary" 
+								src="logo_2_d8qsqv"
+								alt="Education Logo Images" /></a>
                     </div>
                 </div>
             </div>
