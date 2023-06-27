@@ -38,7 +38,7 @@
                                         <div class="rbt-card variation-01 rbt-hover">
                                             <div class="rbt-card-img">
                                                 <nuxtLink to="/courses/build-junior-site">
-                                                    <img src="assets/images/co4.png" alt="Card image">
+                                                    <img src="/assets/images/co4.png" alt="Card image">
                                                 </nuxtLink>
                                             </div>
                                             <div dir="rtl" class="rbt-card-body">
@@ -122,7 +122,7 @@
                                         <div class="rbt-card variation-01 rbt-hover">
                                             <div class="rbt-card-img">
                                                 <a class="popup-video with-animation"  href="https://www.youtube.com/watch?v=nA1Aqp0sPQo">
-                                                    <img src="assets/images/co1.png" alt="Card image">
+                                                    <img src="/assets/images/co1.png" alt="Card image">
                                                 </a>
                                             </div>
                                             <div dir="rtl" class="rbt-card-body">
@@ -143,7 +143,7 @@
                                         <div class="rbt-card variation-01 rbt-hover">
                                             <div class="rbt-card-img">
                                                 <a class="popup-video with-animation" href="https://www.youtube.com/watch?v=nA1Aqp0sPQo">
-                                                    <img src="assets/images/co2.png" alt="Card image">
+                                                    <img src="/assets/images/co2.png" alt="Card image">
                                                 </a>
                                             </div>
                                             <div dir="rtl" class="rbt-card-body">
@@ -254,7 +254,7 @@
                                             <div class="inner">
                                                 <div class="thumbnail">
                                                     <a href="course-filter-one-toggle.html">
-                                                        <img src="assets/images/8.png" alt="Category Images">
+                                                        <img src="/assets/images/8.png" alt="Category Images">
                                                         <div class="read-more-btn">
                                                             <span class="rbt-btn btn-sm btn-white radius-round">20 Courses</span>
                                                         </div>
@@ -277,7 +277,7 @@
                                             <div class="inner">
                                                 <div class="thumbnail">
                                                     <a href="course-filter-one-toggle.html">
-                                                        <img src="assets/images/12.png" alt="Category Images">
+                                                        <img src="/assets/images/12.png" alt="Category Images">
                                                         <div class="read-more-btn">
                                                             <span class="rbt-btn btn-sm btn-white radius-round">20 Courses</span>
                                                         </div>
@@ -300,7 +300,7 @@
                                             <div class="inner">
                                                 <div class="thumbnail">
                                                     <a href="course-filter-one-toggle.html">
-                                                        <img src="assets/images/11.png" alt="Category Images">
+                                                        <img src="/assets/images/11.png" alt="Category Images">
                                                         <div class="read-more-btn">
                                                             <span class="rbt-btn btn-sm btn-white radius-round">20 Courses</span>
                                                         </div>
@@ -323,7 +323,7 @@
                                             <div class="inner">
                                                 <div class="thumbnail">
                                                     <a href="course-filter-one-toggle.html">
-                                                        <img src="assets/images/8.png" alt="Category Images">
+                                                        <img src="/assets/images/8.png" alt="Category Images">
                                                         <div class="read-more-btn">
                                                             <span class="rbt-btn btn-sm btn-white radius-round">20 Courses</span>
                                                         </div>
@@ -346,7 +346,7 @@
                                             <div class="inner">
                                                 <div class="thumbnail">
                                                     <a href="course-filter-one-toggle.html">
-                                                        <img src="assets/images/8.png" alt="Category Images">
+                                                        <img src="/assets/images/8.png" alt="Category Images">
                                                         <div class="read-more-btn">
                                                             <span class="rbt-btn btn-sm btn-white radius-round">20 Courses</span>
                                                         </div>
@@ -392,7 +392,7 @@
                         <div class="variation-01 rbt-hover">
                             <div class="rbt-card-img">
                                 <a class="popup-video with-animation" href="https://www.youtube.com/watch?v=nA1Aqp0sPQo">
-                                    <img src="assets/images/3.png" alt="Card image">
+                                    <img src="/assets/images/3.png" alt="Card image">
                                 </a>
                             </div>
                         </div>
@@ -401,7 +401,7 @@
                         <div class="variation-01 rbt-hover">
                             <div class="rbt-card-img">
                                 <a class="popup-video with-animation" href="https://www.youtube.com/watch?v=nA1Aqp0sPQo">
-                                    <img src="assets/images/4.png" alt="Card image">
+                                    <img src="/assets/images/4.png" alt="Card image">
                                 </a>
                             </div>
                         </div>
@@ -410,7 +410,7 @@
                         <div class="variation-01 rbt-hover">
                             <div class="rbt-card-img">
                                 <a class="popup-video with-animation" href="https://www.youtube.com/watch?v=nA1Aqp0sPQo">
-                                    <img src="assets/images/5.png" alt="Card image">
+                                    <img src="/assets/images/5.png" alt="Card image">
                                 </a>
                             </div>
                         </div>
@@ -447,7 +447,7 @@
 <div class="rbt-card card-list variation-02 rbt-hover">
     <div class="rbt-card-img">
         <a href="blog-details.html">
-            <img src="assets/images/blog/01.png" alt="Card image"> </a>
+            <img src="/assets/images/blog/01.png" alt="Card image"> </a>
     </div>
     <div class="rbt-card-body">
         <h5 class="rbt-card-title"><a href="blog-details.html">Why Is Education So Famous?</a></h5>
@@ -462,7 +462,7 @@
 <div class="rbt-card card-list variation-02 rbt-hover mt--30">
     <div class="rbt-card-img">
         <a href="blog-details.html">
-            <img src="assets/images/blog/02.png" alt="Card image"> </a>
+            <img src="/assets/images/blog/02.png" alt="Card image"> </a>
     </div>
     <div class="rbt-card-body">
         <h5 class="rbt-card-title"><a href="blog-details.html">Difficult Things About Education.</a></h5>
@@ -477,7 +477,7 @@
 <div class="rbt-card card-list variation-02 rbt-hover mt--30">
     <div class="rbt-card-img">
         <a href="blog-details.html">
-            <img src="assets/images/blog/03.png" alt="Card image"> </a>
+            <img src="/assets/images/blog/03.png" alt="Card image"> </a>
     </div>
     <div class="rbt-card-body">
         <h5 class="rbt-card-title"><a href="blog-details.html">Education Is So Famous, But Why?</a></h5>
@@ -495,7 +495,7 @@
                         <div class="rbt-card card-list variation-02 rbt-hover">
                             <div class="rbt-card-img">
                                 <a href="blog-details.html">
-                                    <img src="assets/images/blog/04.png" alt="Card image"> </a>
+                                    <img src="/assets/images/blog/04.png" alt="Card image"> </a>
                             </div>
                             <div class="rbt-card-body">
                                 <h5 class="rbt-card-title"><a href="blog-details.html">Why Is Education So Famous?</a></h5>
@@ -510,7 +510,7 @@
                         <div class="rbt-card card-list variation-02 rbt-hover mt--30">
                             <div class="rbt-card-img">
                                 <a href="blog-details.html">
-                                    <img src="assets/images/blog/05.png" alt="Card image"> </a>
+                                    <img src="/assets/images/blog/05.png" alt="Card image"> </a>
                             </div>
                             <div class="rbt-card-body">
                                 <h5 class="rbt-card-title"><a href="blog-details.html">Difficult Things About Education.</a></h5>
@@ -525,7 +525,7 @@
                         <div class="rbt-card card-list variation-02 rbt-hover mt--30">
                             <div class="rbt-card-img">
                                 <a href="blog-details.html">
-                                    <img src="assets/images/blog/06.png" alt="Card image"> </a>
+                                    <img src="/assets/images/blog/06.png" alt="Card image"> </a>
                             </div>
                             <div class="rbt-card-body">
                                 <h5 class="rbt-card-title"><a href="blog-details.html">Education Is So Famous, But Why?</a></h5>
@@ -558,7 +558,7 @@
                         <div class="variation-01 rbt-hover">
                             <div class="rbt-card-img">
                                 <a class="popup-video with-animation" href="https://www.youtube.com/watch?v=nA1Aqp0sPQo">
-                                    <img src="assets/images/6.png" alt="Card image">
+                                    <img src="/assets/images/6.png" alt="Card image">
                                 </a>
                             </div>
                         </div>
@@ -567,7 +567,7 @@
                         <div class="variation-01 rbt-hover">
                             <div class="rbt-card-img">
                                 <a class="popup-video with-animation" href="https://www.youtube.com/watch?v=nA1Aqp0sPQo">
-                                    <img src="assets/images/7.png" alt="Card image">
+                                    <img src="/assets/images/7.png" alt="Card image">
                                 </a>
                             </div>
                         </div>
@@ -576,7 +576,7 @@
                         <div class="variation-01 rbt-hover">
                             <div class="rbt-card-img">
                                 <a class="popup-video with-animation" href="https://www.youtube.com/watch?v=nA1Aqp0sPQo">
-                                    <img src="assets/images/8(1).png" alt="Card image">
+                                    <img src="/assets/images/8(1).png" alt="Card image">
                                 </a>
                             </div>
                         </div>
@@ -609,7 +609,7 @@
                                         <div class="rbt-card event-grid-card variation-01 rbt-hover">
                                             <div class="rbt-card-img">
                                                 <a href="event-details.html">
-                                                    <img src="assets/images/st1.png" alt="Card image">
+                                                    <img src="/assets/images/st1.png" alt="Card image">
                                                 </a>
                                             </div>
                                             <div class="rbt-card-body text-center">
@@ -643,7 +643,7 @@
                                         <div class="rbt-card event-grid-card variation-01 rbt-hover">
                                             <div class="rbt-card-img">
                                                 <a href="event-details.html">
-                                                    <img src="assets/images/st2.jpeg" alt="Card image">
+                                                    <img src="/assets/images/st2.jpeg" alt="Card image">
                                                 </a>
                                             </div>
                                             <div class="rbt-card-body text-center">
@@ -677,7 +677,7 @@
                                         <div class="rbt-card event-grid-card variation-01 rbt-hover">
                                             <div class="rbt-card-img">
                                                 <a href="event-details.html">
-                                                    <img src="assets/images/st3.png" alt="Card image">
+                                                    <img src="/assets/images/st3.png" alt="Card image">
                                                 </a>
                                             </div>
                                             <div class="rbt-card-body text-center">
@@ -711,7 +711,7 @@
                                         <div class="rbt-card event-grid-card variation-01 rbt-hover">
                                             <div class="rbt-card-img">
                                                 <a href="event-details.html">
-                                                    <img src="assets/images/st4.png" alt="Card image">
+                                                    <img src="/assets/images/st4.png" alt="Card image">
                                                 </a>
                                             </div>
                                             <div class="rbt-card-body text-center">
@@ -927,14 +927,14 @@
                         <div class="rbt-testimonial-box style-2">
                             <div class="inner">
                                 <div class="icons">
-                                    <img src="assets/images/splash/icons/rating.png" alt="Clint Images">
+                                    <img src="/assets/images/splash/icons/rating.png" alt="Clint Images">
                                 </div>
                                 <div class="description">
                                     <p class="subtitle-3">The theme itself suits my needs, but the support is the superstar
                                         that earns this theme and the team behind <strong>it a 5 stars rating</strong>. Kudos!</p>
                                     <div class="clint-info-wrapper">
                                         <div class="thumb">
-                                            <img src="assets/images/splash/icons/envato.png" alt="Clint Images">
+                                            <img src="/assets/images/splash/icons/envato.png" alt="Clint Images">
                                         </div>
                                         <div class="client-info">
                                             <h5 class="title">arikurnia1</h5>
@@ -951,13 +951,13 @@
                         <div class="rbt-testimonial-box style-2">
                             <div class="inner">
                                 <div class="icons">
-                                    <img src="assets/images/splash/icons/rating.png" alt="Clint Images">
+                                    <img src="/assets/images/splash/icons/rating.png" alt="Clint Images">
                                 </div>
                                 <div class="description">
                                     <p class="subtitle-3">I needed support on a issue to install the theme demo, the CS team is super efficient, they <strong>fixed the issue in few hours.</strong> Thank you!</p>
                                     <div class="clint-info-wrapper">
                                         <div class="thumb">
-                                            <img src="assets/images/splash/icons/envato.png" alt="Clint Images">
+                                            <img src="/assets/images/splash/icons/envato.png" alt="Clint Images">
                                         </div>
                                         <div class="client-info">
                                             <h5 class="title">stephanieprugne</h5>
@@ -973,13 +973,13 @@
                         <div class="rbt-testimonial-box style-2">
                             <div class="inner">
                                 <div class="icons">
-                                    <img src="assets/images/splash/icons/rating.png" alt="Clint Images">
+                                    <img src="/assets/images/splash/icons/rating.png" alt="Clint Images">
                                 </div>
                                 <div class="description">
                                     <p class="subtitle-3"><strong>Awesome Customer support.</strong> Fixed issues in less than 24 Hours. Very professional and prompt.</p>
                                     <div class="clint-info-wrapper">
                                         <div class="thumb">
-                                            <img src="assets/images/splash/icons/envato.png" alt="Clint Images">
+                                            <img src="/assets/images/splash/icons/envato.png" alt="Clint Images">
                                         </div>
                                         <div class="client-info">
                                             <h5 class="title">taggrwal</h5>
@@ -996,13 +996,13 @@
                         <div class="rbt-testimonial-box style-2">
                             <div class="inner">
                                 <div class="icons">
-                                    <img src="assets/images/splash/icons/rating.png" alt="Clint Images">
+                                    <img src="/assets/images/splash/icons/rating.png" alt="Clint Images">
                                 </div>
                                 <div class="description">
                                     <p class="subtitle-3">These guys are the REAL deal. Fantastic website and even <strong>better customer support</strong>. Highly recommend and will work with them again.</p>
                                     <div class="clint-info-wrapper">
                                         <div class="thumb">
-                                            <img src="assets/images/splash/icons/envato.png" alt="Clint Images">
+                                            <img src="/assets/images/splash/icons/envato.png" alt="Clint Images">
                                         </div>
                                         <div class="client-info">
                                             <h5 class="title">phil148</h5>
@@ -1019,13 +1019,13 @@
                         <div class="rbt-testimonial-box style-2">
                             <div class="inner">
                                 <div class="icons">
-                                    <img src="assets/images/splash/icons/rating.png" alt="Clint Images">
+                                    <img src="/assets/images/splash/icons/rating.png" alt="Clint Images">
                                 </div>
                                 <div class="description">
                                     <p class="subtitle-3">The theme itself suits my needs, but the support is the superstar that earns this theme and the team behind it a <strong>5 stars rating</strong>. Kudos!</p>
                                     <div class="clint-info-wrapper">
                                         <div class="thumb">
-                                            <img src="assets/images/splash/icons/envato.png" alt="Clint Images">
+                                            <img src="/assets/images/splash/icons/envato.png" alt="Clint Images">
                                         </div>
                                         <div class="client-info">
                                             <h5 class="title">arikurnia1</h5>
@@ -1042,13 +1042,13 @@
                         <div class="rbt-testimonial-box style-2">
                             <div class="inner">
                                 <div class="icons">
-                                    <img src="assets/images/splash/icons/rating.png" alt="Clint Images">
+                                    <img src="/assets/images/splash/icons/rating.png" alt="Clint Images">
                                 </div>
                                 <div class="description">
                                     <p class="subtitle-3">I can only <strong>recommend the theme!</strong> Very nice design, good adjustment options.The support is very friendly and incredibly helpful. Thanks!</p>
                                     <div class="clint-info-wrapper">
                                         <div class="thumb">
-                                            <img src="assets/images/splash/icons/envato.png" alt="Clint Images">
+                                            <img src="/assets/images/splash/icons/envato.png" alt="Clint Images">
                                         </div>
                                         <div class="client-info">
                                             <h5 class="title">timofk</h5>
@@ -1065,13 +1065,13 @@
                         <div class="rbt-testimonial-box style-2">
                             <div class="inner">
                                 <div class="icons">
-                                    <img src="assets/images/splash/icons/rating.png" alt="Clint Images">
+                                    <img src="/assets/images/splash/icons/rating.png" alt="Clint Images">
                                 </div>
                                 <div class="description">
                                     <p class="subtitle-3">The theme is awesome,and the support it's just fantastic, solved my problems in few hours.5 stars are not enough</p>
                                     <div class="clint-info-wrapper">
                                         <div class="thumb">
-                                            <img src="assets/images/splash/icons/envato.png" alt="Clint Images">
+                                            <img src="/assets/images/splash/icons/envato.png" alt="Clint Images">
                                         </div>
                                         <div class="client-info">
                                             <h5 class="title">alesmp82</h5>
@@ -1093,14 +1093,14 @@
                         <div class="rbt-testimonial-box style-2">
                             <div class="inner">
                                 <div class="icons">
-                                    <img src="assets/images/splash/icons/rating.png" alt="Clint Images">
+                                    <img src="/assets/images/splash/icons/rating.png" alt="Clint Images">
                                 </div>
                                 <div class="description">
                                     <p class="subtitle-3">They assist me very well and did everything I asked !
                                         Quick answer to <strong>So yes I recommand :)</strong></p>
                                     <div class="clint-info-wrapper">
                                         <div class="thumb">
-                                            <img src="assets/images/splash/icons/envato.png" alt="Clint Images">
+                                            <img src="/assets/images/splash/icons/envato.png" alt="Clint Images">
                                         </div>
                                         <div class="client-info">
                                             <h5 class="title">saverysyoann</h5>
@@ -1117,13 +1117,13 @@
                         <div class="rbt-testimonial-box style-2">
                             <div class="inner">
                                 <div class="icons">
-                                    <img src="assets/images/splash/icons/rating.png" alt="Clint Images">
+                                    <img src="/assets/images/splash/icons/rating.png" alt="Clint Images">
                                 </div>
                                 <div class="description">
                                     <p class="subtitle-3">I have zero experience with web design and found this template super easy to use. Very helpful support team too.</p>
                                     <div class="clint-info-wrapper">
                                         <div class="thumb">
-                                            <img src="assets/images/splash/icons/envato.png" alt="Clint Images">
+                                            <img src="/assets/images/splash/icons/envato.png" alt="Clint Images">
                                         </div>
                                         <div class="client-info">
                                             <h5 class="title">thomasmcbrien00</h5>
@@ -1140,13 +1140,13 @@
                         <div class="rbt-testimonial-box style-2">
                             <div class="inner">
                                 <div class="icons">
-                                    <img src="assets/images/splash/icons/rating.png" alt="Clint Images">
+                                    <img src="/assets/images/splash/icons/rating.png" alt="Clint Images">
                                 </div>
                                 <div class="description">
                                     <p class="subtitle-3">they was so kindly and replay so fast and they fixed all what i want, thank you so much !</p>
                                     <div class="clint-info-wrapper">
                                         <div class="thumb">
-                                            <img src="assets/images/splash/icons/envato.png" alt="Clint Images">
+                                            <img src="/assets/images/splash/icons/envato.png" alt="Clint Images">
                                         </div>
                                         <div class="client-info">
                                             <h5 class="title">ordersgate</h5>
@@ -1163,13 +1163,13 @@
                         <div class="rbt-testimonial-box style-2">
                             <div class="inner">
                                 <div class="icons">
-                                    <img src="assets/images/splash/icons/rating.png" alt="Clint Images">
+                                    <img src="/assets/images/splash/icons/rating.png" alt="Clint Images">
                                 </div>
                                 <div class="description">
                                     <p class="subtitle-3"><strong>Responsive and competent support.</strong> They perfectly answer the questions of use and the various problems that one can have. A big thank-you !</p>
                                     <div class="clint-info-wrapper">
                                         <div class="thumb">
-                                            <img src="assets/images/splash/icons/envato.png" alt="Clint Images">
+                                            <img src="/assets/images/splash/icons/envato.png" alt="Clint Images">
                                         </div>
                                         <div class="client-info">
                                             <h5 class="title">couletcorentin</h5>
@@ -1185,13 +1185,13 @@
                         <div class="rbt-testimonial-box style-2">
                             <div class="inner">
                                 <div class="icons">
-                                    <img src="assets/images/splash/icons/rating.png" alt="Clint Images">
+                                    <img src="/assets/images/splash/icons/rating.png" alt="Clint Images">
                                 </div>
                                 <div class="description">
                                     <p class="subtitle-3">They are really amazing, the customization is really dope, and Support is really awesome</p>
                                     <div class="clint-info-wrapper">
                                         <div class="thumb">
-                                            <img src="assets/images/splash/icons/envato.png" alt="Clint Images">
+                                            <img src="/assets/images/splash/icons/envato.png" alt="Clint Images">
                                         </div>
                                         <div class="client-info">
                                             <h5 class="title">rohithaditya</h5>
@@ -1208,13 +1208,13 @@
                         <div class="rbt-testimonial-box style-2">
                             <div class="inner">
                                 <div class="icons">
-                                    <img src="assets/images/splash/icons/rating.png" alt="Clint Images">
+                                    <img src="/assets/images/splash/icons/rating.png" alt="Clint Images">
                                 </div>
                                 <div class="description">
                                     <p class="subtitle-3">One of the best support and clean code on codecanyon! <strong>Highly recommended!</strong></p>
                                     <div class="clint-info-wrapper">
                                         <div class="thumb">
-                                            <img src="assets/images/splash/icons/envato.png" alt="Clint Images">
+                                            <img src="/assets/images/splash/icons/envato.png" alt="Clint Images">
                                         </div>
                                         <div class="client-info">
                                             <h5 class="title">neosofts</h5>
@@ -1231,14 +1231,14 @@
                         <div class="rbt-testimonial-box style-2">
                             <div class="inner">
                                 <div class="icons">
-                                    <img src="assets/images/splash/icons/rating.png" alt="Clint Images">
+                                    <img src="/assets/images/splash/icons/rating.png" alt="Clint Images">
                                 </div>
                                 <div class="description">
                                     <p class="subtitle-3">I have never seen support as fast and efficient as this one.
                                         I can't say anything about the theme yet since I just started building the site, but with this kind of support, <strong>I am confident it will be awesome</strong>.</p>
                                     <div class="clint-info-wrapper">
                                         <div class="thumb">
-                                            <img src="assets/images/splash/icons/envato.png" alt="Clint Images">
+                                            <img src="/assets/images/splash/icons/envato.png" alt="Clint Images">
                                         </div>
                                         <div class="client-info">
                                             <h5 class="title">desdizajn</h5>
@@ -1255,13 +1255,13 @@
                         <div class="rbt-testimonial-box style-2">
                             <div class="inner">
                                 <div class="icons">
-                                    <img src="assets/images/splash/icons/rating.png" alt="Clint Images">
+                                    <img src="/assets/images/splash/icons/rating.png" alt="Clint Images">
                                 </div>
                                 <div class="description">
                                     <p class="subtitle-3">The customer support for this theme is top notch. They have been on the ball answering my questions, especially when it came to fixing bugs I was experiencing.</p>
                                     <div class="clint-info-wrapper">
                                         <div class="thumb">
-                                            <img src="assets/images/splash/icons/envato.png" alt="Clint Images">
+                                            <img src="/assets/images/splash/icons/envato.png" alt="Clint Images">
                                         </div>
                                         <div class="client-info">
                                             <h5 class="title">nyyankster71</h5>
@@ -1278,13 +1278,13 @@
                         <div class="rbt-testimonial-box style-2">
                             <div class="inner">
                                 <div class="icons">
-                                    <img src="assets/images/splash/icons/rating.png" alt="Clint Images">
+                                    <img src="/assets/images/splash/icons/rating.png" alt="Clint Images">
                                 </div>
                                 <div class="description">
                                     <p class="subtitle-3">Very Beautiful theme and great support team and fast response from author team.</p>
                                     <div class="clint-info-wrapper">
                                         <div class="thumb">
-                                            <img src="assets/images/splash/icons/envato.png" alt="Clint Images">
+                                            <img src="/assets/images/splash/icons/envato.png" alt="Clint Images">
                                         </div>
                                         <div class="client-info">
                                             <h5 class="title">pranavkumbhare</h5>
@@ -1306,7 +1306,7 @@
                         <div class="rbt-testimonial-box style-2">
                             <div class="inner">
                                 <div class="icons">
-                                    <img src="assets/images/splash/icons/rating.png" alt="Clint Images">
+                                    <img src="/assets/images/splash/icons/rating.png" alt="Clint Images">
                                 </div>
                                 <div class="description">
                                     <p class="subtitle-3">Beautiful theme! (Of course, that’s why I got it). But most
@@ -1314,7 +1314,7 @@
                                         finding it hard to install and customise the demo but he guided</p>
                                     <div class="clint-info-wrapper">
                                         <div class="thumb">
-                                            <img src="assets/images/splash/icons/envato.png" alt="Clint Images">
+                                            <img src="/assets/images/splash/icons/envato.png" alt="Clint Images">
                                         </div>
                                         <div class="client-info">
                                             <h5 class="title">teechelle</h5>
@@ -1331,7 +1331,7 @@
                         <div class="rbt-testimonial-box style-2">
                             <div class="inner">
                                 <div class="icons">
-                                    <img src="assets/images/splash/icons/rating.png" alt="Clint Images">
+                                    <img src="/assets/images/splash/icons/rating.png" alt="Clint Images">
                                 </div>
                                 <div class="description">
                                     <p class="subtitle-3">The design Quality is perfect! Customer Support is the best so
@@ -1339,7 +1339,7 @@
                                         Thank you!</p>
                                     <div class="clint-info-wrapper">
                                         <div class="thumb">
-                                            <img src="assets/images/splash/icons/envato.png" alt="Clint Images">
+                                            <img src="/assets/images/splash/icons/envato.png" alt="Clint Images">
                                         </div>
                                         <div class="client-info">
                                             <h5 class="title">3anbo3d</h5>
@@ -1356,14 +1356,14 @@
                         <div class="rbt-testimonial-box style-2">
                             <div class="inner">
                                 <div class="icons">
-                                    <img src="assets/images/splash/icons/rating.png" alt="Clint Images">
+                                    <img src="/assets/images/splash/icons/rating.png" alt="Clint Images">
                                 </div>
                                 <div class="description">
                                     <p class="subtitle-3">The theme itself suits my needs, but the support is the superstar
                                         that earns this theme and the team behind it a 5 stars rating. Kudos!</p>
                                     <div class="clint-info-wrapper">
                                         <div class="thumb">
-                                            <img src="assets/images/splash/icons/envato.png" alt="Clint Images">
+                                            <img src="/assets/images/splash/icons/envato.png" alt="Clint Images">
                                         </div>
                                         <div class="client-info">
                                             <h5 class="title">arikurnia1</h5>
@@ -1380,13 +1380,13 @@
                         <div class="rbt-testimonial-box style-2">
                             <div class="inner">
                                 <div class="icons">
-                                    <img src="assets/images/splash/icons/rating.png" alt="Clint Images">
+                                    <img src="/assets/images/splash/icons/rating.png" alt="Clint Images">
                                 </div>
                                 <div class="description">
                                     <p class="subtitle-3">A really great theme and a great design at a low price. <strong>All in all Excellent</strong>. Best. Best wishes for rainbow team.</p>
                                     <div class="clint-info-wrapper">
                                         <div class="thumb">
-                                            <img src="assets/images/splash/icons/envato.png" alt="Clint Images">
+                                            <img src="/assets/images/splash/icons/envato.png" alt="Clint Images">
                                         </div>
                                         <div class="client-info">
                                             <h5 class="title">gorillacomputer1</h5>
@@ -1403,13 +1403,13 @@
                         <div class="rbt-testimonial-box style-2">
                             <div class="inner">
                                 <div class="icons">
-                                    <img src="assets/images/splash/icons/rating.png" alt="Clint Images">
+                                    <img src="/assets/images/splash/icons/rating.png" alt="Clint Images">
                                 </div>
                                 <div class="description">
                                     <p class="subtitle-3"><strong>Great support,</strong> we have an issue with the theme and they solve it in the same day!! Thanks so much!!</p>
                                     <div class="clint-info-wrapper">
                                         <div class="thumb">
-                                            <img src="assets/images/splash/icons/envato.png" alt="Clint Images">
+                                            <img src="/assets/images/splash/icons/envato.png" alt="Clint Images">
                                         </div>
                                         <div class="client-info">
                                             <h5 class="title">granviamarketing</h5>
@@ -1426,13 +1426,13 @@
                         <div class="rbt-testimonial-box style-2">
                             <div class="inner">
                                 <div class="icons">
-                                    <img src="assets/images/splash/icons/rating.png" alt="Clint Images">
+                                    <img src="/assets/images/splash/icons/rating.png" alt="Clint Images">
                                 </div>
                                 <div class="description">
                                     <p class="subtitle-3">This theme is beautiful, well crafted elements and the support is top notch! This team deserve everything! <strong>I recommend this 100%.</strong></p>
                                     <div class="clint-info-wrapper">
                                         <div class="thumb">
-                                            <img src="assets/images/splash/icons/envato.png" alt="Clint Images">
+                                            <img src="/assets/images/splash/icons/envato.png" alt="Clint Images">
                                         </div>
                                         <div class="client-info">
                                             <h5 class="title">dasantos97</h5>
@@ -1449,14 +1449,14 @@
                         <div class="rbt-testimonial-box style-2">
                             <div class="inner">
                                 <div class="icons">
-                                    <img src="assets/images/splash/icons/rating.png" alt="Clint Images">
+                                    <img src="/assets/images/splash/icons/rating.png" alt="Clint Images">
                                 </div>
                                 <div class="description">
                                     <p class="subtitle-3">The theme is <strong>great and the support is even better</strong>. They helped my with installation and everything.
                                         Thank you!</p>
                                     <div class="clint-info-wrapper">
                                         <div class="thumb">
-                                            <img src="assets/images/splash/icons/envato.png" alt="Clint Images">
+                                            <img src="/assets/images/splash/icons/envato.png" alt="Clint Images">
                                         </div>
                                         <div class="client-info">
                                             <h5 class="title">hudecvfx</h5>
@@ -1473,13 +1473,13 @@
                         <div class="rbt-testimonial-box style-2">
                             <div class="inner">
                                 <div class="icons">
-                                    <img src="assets/images/splash/icons/rating.png" alt="Clint Images">
+                                    <img src="/assets/images/splash/icons/rating.png" alt="Clint Images">
                                 </div>
                                 <div class="description">
                                     <p class="subtitle-3">It is a very minimal beautiful theme. I really like these types of themes. <strong>They are also very good at support</strong>. They answered almost all my questions :)</p>
                                     <div class="clint-info-wrapper">
                                         <div class="thumb">
-                                            <img src="assets/images/splash/icons/envato.png" alt="Clint Images">
+                                            <img src="/assets/images/splash/icons/envato.png" alt="Clint Images">
                                         </div>
                                         <div class="client-info">
                                             <h5 class="title">mrtyildiz</h5>
@@ -1496,13 +1496,13 @@
                         <div class="rbt-testimonial-box style-2">
                             <div class="inner">
                                 <div class="icons">
-                                    <img src="assets/images/splash/icons/rating.png" alt="Clint Images">
+                                    <img src="/assets/images/splash/icons/rating.png" alt="Clint Images">
                                 </div>
                                 <div class="description">
                                     <p class="subtitle-3">Just downloaded the theme. never used it yet but I'm sure that it's amazing because the HTML version was mind blowing so the WordPress is <strong>gonna be mind-blowing too :)</strong></p>
                                     <div class="clint-info-wrapper">
                                         <div class="thumb">
-                                            <img src="assets/images/splash/icons/envato.png" alt="Clint Images">
+                                            <img src="/assets/images/splash/icons/envato.png" alt="Clint Images">
                                         </div>
                                         <div class="client-info">
                                             <h5 class="title">ranawebdesign</h5>
@@ -1533,7 +1533,7 @@
         </div>
 
         <div class="line-shape text-center">
-            <img src="assets/images/splash/icons/line-shape.png" alt="Shape">
+            <img src="/assets/images/splash/icons/line-shape.png" alt="Shape">
         </div>
     </div>
     <!-- End Testimonial Area  -->
@@ -1546,7 +1546,7 @@
 
                     <div class="section-title text-center pb--60">
                         <div class="client-group-image">
-                            <img src="assets/images/splash/icons/group-image.png" alt="group image" class="mb--30">
+                            <img src="/assets/images/splash/icons/group-image.png" alt="group image" class="mb--30">
                         </div>
                         <span class="subtitle bg-secondary-opacity">Check out our FAQ section to see if we can
                             help.</span>
@@ -1674,7 +1674,7 @@
                     <div class="col-lg-12">
                         <div class="inner text-start">
                             <a href="https://themeforest.net/checkout/from_item/42846507?license=regular" class="rbt-badge-2 mb--20 border-0 shadow-none bg-color-white-opacity color-white bounce-slide">
-                                <div class="image"><img src="assets/images/splash/icons/envato.png" alt="Purchased Now Images"></div> Purchased Now &nbsp; &#62; &nbsp; <i> Mandy F. Wood</i>
+                                <div class="image"><img src="/assets/images/splash/icons/envato.png" alt="Purchased Now Images"></div> Purchased Now &nbsp; &#62; &nbsp; <i> Mandy F. Wood</i>
                             </a>
                             <h2 class="title" data-sal-delay="150" data-sal="slide-up" data-sal-duration="800">Take your website to the next level!</h2>
                             <div class="footer-btn mt--25" data-sal-delay="200" data-sal="slide-up" data-sal-duration="800">
@@ -1689,7 +1689,7 @@
                             <span class="subtitle" data-sal-delay="250" data-sal="slide-up"
                             data-sal-duration="800"><strong>One-time</strong> purchase. No additional fees or subscriptions.</span>
                             <div class="line-shape">
-                                <img src="assets/images/icons/line-shape.png" alt="Line Shape">
+                                <img src="/assets/images/icons/line-shape.png" alt="Line Shape">
                             </div>
                         </div>
                     </div>
@@ -1705,7 +1705,7 @@
                         <div class="rbt-splash-service no-translate h-100">
                             <div class="inner">
                                 <div class="icon">
-                                    <img src="assets/images/icons/documentation.png" alt="Icons Images">
+                                    <img src="/assets/images/icons/documentation.png" alt="Icons Images">
                                 </div>
                                 <div class="content">
                                     <h4 class="title"><a href="#">Online Documentation</a></h4>
@@ -1737,7 +1737,7 @@
                         <div class="rbt-splash-service no-translate support h-100">
                             <div class="inner">
                                 <div class="icon">
-                                    <img src="assets/images/icons/support.png" alt="Icons Images">
+                                    <img src="/assets/images/icons/support.png" alt="Icons Images">
                                 </div>
                                 <div class="content">
                                     <h4 class="title"><a href="#">Dedicated Support</a></h4>
@@ -1765,7 +1765,7 @@
                         <div class="rbt-splash-service no-translate support h-100 bg-gradient-7 rbt-splash-service-white border-0">
                             <div class="inner">
                                 <div class="icon">
-                                    <img src="assets/images/icons/hire.png" alt="Icons Images">
+                                    <img src="/assets/images/icons/hire.png" alt="Icons Images">
                                 </div>
                                 <div class="content">
                                     <h4 class="title color-white">Hire Developer & Designer</h4>
