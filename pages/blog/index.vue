@@ -93,17 +93,6 @@
                   </div>
                 </div>
               </div>
-								<!-- <img
-									:src="p.image"
-									:alt="p.title"
-									class="w-full h-[300px] object-contain object-center"
-								/>
-								<div class="p-3">
-									<h2 class="text-xs">{{ p.title }}</h2>
-									<p class="font-bold text-sm mt-2">
-										{{ formatPrice(p.price) }}
-									</p>
-								</div> -->
 							</NuxtLink>
 						</div>
 						</template>

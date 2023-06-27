@@ -1,0 +1,51 @@
+<pre style="margin: 0;">
+            <code class="js">
+  <span class="hljs-comment">// With NPM</span>
+  (<span class="hljs-keyword">function</span>(){
+    <span class="hljs-keyword">function</span> Name(<span class="hljs-params">elem</span>){
+      console.log(<span class="hljs-string">'Hello'</span>);
+    }
+  });</code>
+         </pre>
+
+         <div class="rbt-gallery-area">
+          <div class="row g-5 rbt-border-gap parent-gallery-container">
+              <a href="assets/images/ss.png" class="child-gallery-single col-lg-4 col-md-4 col-sm-6 col-6">
+                  <div class="rbt-gallery">
+                      <img class="w-100" src="assets/images/ss.png" alt="Gallery Images">
+                  </div>
+              </a>
+          </div>
+      </div>
+
+
+
+      <div dir="rtl" class="row g-5">
+        <template
+            v-for="(p, i) in filterProducts"
+            :key="`product-${i}-${p.id}`"
+          >
+            <NuxtLink
+              :to="`${p._path}`"
+              :class="{ 'col-lg-3': i === 0 && !activeCategory }"
+              class="col-lg-4 col-md-6 col-sm-12 col-12"
+            >
+              <div class="rbt-card variation-02 rbt-hover card-minimal">
+                <div class="rbt-card-body">
+                  <ul class="meta-list justify-content-start mb--30">
+                    <li class="list-item">
+                      <i class="feather-clock"></i>
+                      <span>{{ p.createdAt }}</span>
+                    </li>
+                  </ul>
+                  <h4 class="rbt-card-title"><a href="blog-details.html">{{ p.title }}</a></h4>
+                  <div class="rbt-card-bottom mt--40">
+                    <a class="transparent-button" href="blog-details.html">Learn
+                      More<i><svg width="17" height="12" xmlns="http://www.w3.org/2000/svg"><g stroke="#27374D" fill="none" fill-rule="evenodd"><path d="M10.614 0l5.629 5.629-5.63 5.629"/><path stroke-linecap="square" d="M.663 5.572h14.594"/></g></svg></i></a>
+                  </div>
+                </div>
+              </div>
+            </NuxtLink>
+          </template>
+             
+          </div>
