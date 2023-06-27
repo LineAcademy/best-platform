@@ -31,7 +31,12 @@
                                             <div class="row row--15">
                                                 <div class="col-lg-12 col-xl-3 col-xxl-4 single-mega-item">
                                                     <div class="rbt-ads-wrapper">
-                                                        <a class="d-block" href="/courses/"><img src="/assets/images/تعلم برمجة الويب الأن.png" alt="Education Images"></a>
+                                                        <a class="d-block" href="/courses/"><nuxt-img
+                                loading="lazy" 
+                                fit="cover"
+                                provider="cloudinary" 
+								src="logo_2_d8qsqv"
+								alt="Education Logo Images"/></a>
                                                     </div>
                                                 </div>
 
