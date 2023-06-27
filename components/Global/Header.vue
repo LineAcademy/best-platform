@@ -137,7 +137,12 @@
                 <div class="content">
                     <div class="logo">
                         <a href="index.html">
-                            <img src="assets/images/أحمد وليد.png" alt="Education Logo Images">
+                            <nuxt-img
+                                loading="lazy" 
+                                fit="cover"
+                                provider="cloudinary" 
+								src="logo_2_d8qsqv"
+								alt="Education Logo Images" />
                         </a>
                     </div>
                     <div class="rbt-btn-close">
