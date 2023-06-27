@@ -27,7 +27,7 @@
                                 </div>
                             </div>
                             <div class="shape-wrapper" id="scene">
-                                <img src="assets/images/vbvb.png" alt="Hero Image">
+                                <img src="/assets/images/vbvb.png" alt="Hero Image">
                             </div>
 
                             <div class="banner-card pb--60 mb--50 swiper rbt-dot-bottom-center banner-swiper-active">
